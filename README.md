@@ -1,5 +1,11 @@
 # Investigating the Effects of Renewable Energy and Energy Efficiency on Economic Growth in Low- and Middle-Income Nations.
 # Project Overview
+# Folder Structure
+
+# Requirements
+See requirements.txt
+# LICENSE
+See LICENSE.txt file
 # Citation
 If you use or reference this work in an academic context, please cite it as follows:
 
