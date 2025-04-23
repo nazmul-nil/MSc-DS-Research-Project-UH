@@ -8,7 +8,7 @@ This repository presents the complete MSc Data Science research project, which e
 
 ## Dataset Overview
 
-The dataset originates from the [World Development Indicators](https://databank.worldbank.org/source/world-development-indicators#), incorporating selected indicators across the following themes:
+The dataset originates from the [World Development Indicators](https://databank.worldbank.org/source/world-development-indicators#), incorporating 266 countries & 91 indicators across the following themes:
 
 - **Economic Policy & Debt** → National Accounts → Growth Rates  
 - **Environment** → Emissions  
