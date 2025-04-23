@@ -1,12 +1,12 @@
 # Investigating the Effects of Renewable Energy and Energy Efficiency on Economic Growth in Low- and Middle-Income Nations
 
-## 📘 Project Overview
+## Project Overview
 
 This repository presents the complete MSc Data Science research project, which explores how **renewable energy usage** and **energy efficiency improvements** contribute to **sector-specific economic growth**—specifically within **agriculture**, **industry**, and **services**—across **low- and middle-income countries (LMICs)**. The study incorporates differences in **carbon dioxide emissions** to better understand how environmental and energy-related factors interact with economic development in varying national contexts.
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The dataset originates from the [World Development Indicators](https://databank.worldbank.org/source/world-development-indicators#), incorporating selected indicators across the following themes:
 
